@@ -9,6 +9,7 @@ import masaImg from "@/assets/masa-tacerii.jpg";
 import heroImg from "@/assets/hero-gorj.jpg";
 import peisajImg from "@/assets/peisaj-gorj.jpg";
 import brancusiImg from "@/assets/brancusi-portret.jpg";
+import ansambluImg from "@/assets/ansamblu-brancusi.jpg";
 
 const categorii = ["Toate", "Opere", "Peisaje", "Portrete"];
 
@@ -16,8 +17,9 @@ const imagini = [
   { src: coloanaImg, alt: "Coloana Infinitului", categorie: "Opere" },
   { src: poartaImg, alt: "Poarta Sărutului", categorie: "Opere" },
   { src: masaImg, alt: "Masa Tăcerii", categorie: "Opere" },
-  { src: heroImg, alt: "Valea Jiului – panoramă", categorie: "Peisaje" },
-  { src: peisajImg, alt: "Munții Parâng – pășuni alpine", categorie: "Peisaje" },
+  { src: ansambluImg, alt: "Ansamblul Monumental Brâncuși", categorie: "Opere" },
+  { src: heroImg, alt: "Transalpina - drum montan", categorie: "Peisaje" },
+  { src: peisajImg, alt: "Transalpina - panoramă", categorie: "Peisaje" },
   { src: brancusiImg, alt: "Constantin Brâncuși – portret", categorie: "Portrete" },
 ];
 
